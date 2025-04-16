@@ -235,8 +235,8 @@ public class SecondActivity extends AppCompatActivity {
 </manifest>
 ```
 ## OUTPUT:
-<img src="Screenshot 2025-04-16 103811.png" width=100%>
-<img src="Screenshot 2025-04-16 103819.png" width=100%>
+<img src="Screenshot 2025-04-16 103811.png" width=30%>
+<img src="Screenshot 2025-04-16 103819.png" width=30%>
 
 
 ## RESULT
